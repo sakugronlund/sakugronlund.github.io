@@ -1,0 +1,79 @@
+body
+	{
+	background-color: #D3D3D3;
+	font-family: "Bahnschrift Light";
+	font-size: 12px;
+	}
+
+.container
+	{
+	max-width: 900px;
+	margin: auto;
+	}
+
+h1
+	{
+	color: black;
+	padding-top: 30px;
+	padding-left: 30px;
+	font-size: 72px;
+	}
+
+a
+	{
+	color: black;
+	font-weight: bold;
+	}
+
+a:link
+	{
+	color: black;
+	text-decoration: none;
+	}
+
+a:visited
+	{
+	color: black;
+	text-decoration: none;
+	}
+
+a:hover
+	{
+	color: black;
+	text-decoration: none;
+	}
+
+a:active
+	{
+	color: black;
+	text-decoration: none;
+	}
+
+.row
+	{
+	padding-top: 30px;
+	padding-left: 30px;
+	}
+
+li
+	{
+	list-style-type: none;
+	}
+
+footer
+	{
+	text-align: center;
+	padding-top: 100px;
+	}
+
+img
+	{
+	max-width: 300px;
+	max-height: 300px;
+	}
+
+iframe
+	{
+	max-width: 300px;
+	max-height: 300px;
+	}
